@@ -98,3 +98,20 @@ body {
 body:hover {
     background-color: #151515;
 }
+
+nav {
+    background-color: #111;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 0 15px;
+}
